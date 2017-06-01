@@ -1,0 +1,29 @@
+body{
+  background-image: url('images/bg_1024.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  position: fixed;
+}
+.mcard{
+  width: 100%;
+}
+.mcard img{
+  max-height: 200px;
+}
+.hallo{
+  text-align: center;
+}
+.mnavy{
+  padding-left:11px;
+}
+.whatisemma{
+  max-height: 56px;
+}
+.material-icons img{
+  max-height: 22px;
+}
