@@ -1,5 +1,5 @@
 body{
-  background-image: url('images/bg_1024.jpg');
+  background-image: url('images/bg2.jpg');
   background-size: cover;
   background-attachment: fixed;
   z-index: -1;
@@ -7,7 +7,8 @@ body{
   right: 0;
   bottom: 0;
   top: 0;
-  position: fixed;
+  font-family: 'Open Sans', sans-serif;
+
 }
 .mcard{
   width: 100%;
@@ -26,4 +27,17 @@ body{
 }
 .material-icons img{
   max-height: 22px;
+}
+.bigger a{
+  font-size: 19px;
+}
+.hided
+{
+    opacity:0;
+}
+.footer{
+  background-color: white;
+  text-align: center;
+  height: 80px;
+  padding: 11px;
 }
